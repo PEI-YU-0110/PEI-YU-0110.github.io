@@ -5,10 +5,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 }
-.text-primary {
-	color: #DC143C;
-}
-
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
+}
+.text-primary {
+	color: #FA8072!important;
+}
+a {
+	color: #FA8072
 }
