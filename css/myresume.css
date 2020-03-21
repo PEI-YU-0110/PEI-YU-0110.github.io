@@ -1,6 +1,6 @@
 body {
 	 font-family: 'Noto Sans TC', sans-serif;
-	 text-align: justify;
+	 text-align: left;
 	 
 }
 h1, h2, h3, h4, h5, h6 {
@@ -11,9 +11,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 .text-primary {
 	color: #FA8072!important;
-}
-p.subheading mb-5 {
-	text-align: justify!important;
 }
 a {
 	color: #FA8072
