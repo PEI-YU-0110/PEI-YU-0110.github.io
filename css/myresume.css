@@ -11,6 +11,9 @@ h1, h2, h3, h4, h5, h6 {
 .text-primary {
 	color: #FA8072!important;
 }
+.subheading mb-5 {
+	text-align: justify;
+}
 a {
 	color: #FA8072
 }
