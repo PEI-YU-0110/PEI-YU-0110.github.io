@@ -7,6 +7,9 @@ body {
     background-color: #E49288!important;
 	background-image: url("https://www.transparenttextures.com/patterns/food.png");
 }
+section {
+    background-image: url("https://www.transparenttextures.com/patterns/grid-me.png");
+}
 h1, h2, h3, h4, h5, h6 {
 	text-transform: none;
 	font-family: 'Noto Sans TC', sans-serif;
