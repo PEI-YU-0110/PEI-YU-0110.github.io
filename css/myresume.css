@@ -26,6 +26,9 @@ h1 {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2em;
 }
+.subheading:{
+	color: #000000;
+}
 .text-primary {
 	color: #FA8072!important;
 }
