@@ -26,7 +26,7 @@ h1 {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2em;
 }
-.dev-icons .list-inline-item i:hover {
+.list-inline-item i:hover {
   color: #56B1BC;
 }
 .text-primary {
