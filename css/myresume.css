@@ -26,9 +26,6 @@ h1 {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2em;
 }
-.list-inline:hover{
-	color: #56B1BC;
-}
 .text-primary {
 	color: #FA8072!important;
 }
