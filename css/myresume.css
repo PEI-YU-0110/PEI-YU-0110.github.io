@@ -29,6 +29,9 @@ h1 {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2em;
 }
+h3.mb-0 {
+    padding-bottom: 1rem;
+}
 .dev-icons {
   font-size: 3rem;
 }
