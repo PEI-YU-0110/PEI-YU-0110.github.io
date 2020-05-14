@@ -27,6 +27,7 @@ h1 {
 	font-size: 1.2em;
 }
 .list-inline:hover{
+	background-color: #000000;
 	color: #56B1BC;
 }
 .text-primary {
