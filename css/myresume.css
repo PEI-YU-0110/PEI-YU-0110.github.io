@@ -32,6 +32,9 @@ h1 {
 h3.mb-0 {
     padding-bottom: 1rem;
 }
+.school {
+	color: #608099!important;
+}
 .dev-icons {
   font-size: 3rem;
 }
