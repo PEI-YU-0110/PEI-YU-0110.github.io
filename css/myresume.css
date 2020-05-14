@@ -26,6 +26,12 @@ h1 {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2em;
 }
+.dev-icons {
+  font-size: 3rem;
+}
+.dev-icons .list-inline-item .twicon-tapioca {
+  font-size: 3.5rem;
+}
 .dev-icons .list-inline-item i:hover {
   color: #56B1BC;
 }
