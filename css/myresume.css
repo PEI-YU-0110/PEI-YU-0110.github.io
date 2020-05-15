@@ -56,3 +56,6 @@ h3.mb-0 {
 a {
 	color: #4D6ABE
 }
+a:hover, a:focus, a:active {
+  color: #614B66;
+}
