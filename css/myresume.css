@@ -11,7 +11,7 @@ body {
 	background-image: url("https://www.transparenttextures.com/patterns/tex2res5.png");
 }
 .social-icons a:hover {
-  background-color: #608099;
+  background-color: #7281AC;
 }
 section {
     background-image: url("https://www.transparenttextures.com/patterns/grid-me.png");
@@ -54,5 +54,5 @@ h3.mb-0 {
 	color: #FA8072!important;
 }
 a {
-	color: #FA8072
+	color: ##4D6ABE
 }
