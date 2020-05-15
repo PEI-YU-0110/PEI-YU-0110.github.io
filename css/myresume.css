@@ -29,6 +29,11 @@ h1 {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2em;
 }
+h2.mb-5 {
+	text-align: center;
+    background-color: #E49288!important;
+    background-image: url(https://www.transparenttextures.com/patterns/foggy-birds.png);
+}
 h3.mb-0 {
     padding-bottom: 1rem;
 }
@@ -52,6 +57,9 @@ h3.mb-0 {
 }
 .text-primary {
 	color: #FA8072!important;
+}
+.123 {
+	color: #ffffff!important;
 }
 a {
 	color: #4D6ABE
