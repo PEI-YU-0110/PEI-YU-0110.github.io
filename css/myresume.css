@@ -35,6 +35,9 @@ h3.mb-0 {
 .school {
 	color: #3F50AB!important;
 }
+.mb-5, .my-5 {
+    margin-bottom: 1.5rem!important;
+}
 .dev-icons {
   font-size: 3rem;
 }
