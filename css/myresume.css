@@ -65,3 +65,9 @@ a {
 a:hover, a:focus, a:active {
   color: #614B66;
 }
+.col-md-6 wow fadeInLeft animated {
+	visibility: visible;
+    animation-duration: 1.5s;
+    animation-name: fadeInLeft;
+	animation-fill-mode: both;
+}
