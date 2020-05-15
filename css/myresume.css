@@ -79,7 +79,7 @@ a:hover, a:focus, a:active {
 	animation-fill-mode: both;
 	float: right;
 }
-.col-md-6 wow fadeInLeft animated {
+h6{
   animation-duration: 3s;
   animation-name: slidein;
 }
