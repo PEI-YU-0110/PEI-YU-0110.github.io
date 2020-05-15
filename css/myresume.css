@@ -30,7 +30,6 @@ h1 {
 	font-size: 1.2em;
 }
 h2.mb-5 {
-	color: #ffffff;
 	text-align: center;
     background-color: #E49288!important;
     background-image: url(https://www.transparenttextures.com/patterns/foggy-birds.png);
@@ -58,6 +57,10 @@ h3.mb-0 {
 }
 .text-primary {
 	color: #FA8072!important;
+	width: max-content;
+}
+.title {
+	color: #FFFFFF!important;
 }
 h2 {
     font-size: 3.4rem;
