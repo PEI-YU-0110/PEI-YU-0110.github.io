@@ -65,13 +65,7 @@ a {
 a:hover, a:focus, a:active {
   color: #614B66;
 }
-.col-md-6 wow fadeInLeft animated {
-	visibility: visible;
-    animation-duration: 1.5s;
-    animation-name: fadeInLeft;
-	animation-fill-mode: both;
-	float: left;
-}
+
 .col-md-6 wow fadeInRight animated {
 	visibility: visible;
     animation-duration: 1.5s;
@@ -80,32 +74,17 @@ a:hover, a:focus, a:active {
 	float: right;
 }
 h6 {
-  -webkit-animation-duration: 3s;
-  -moz-animation-duration: 3s;
-  -webkit-animation-name: slidein;
-  -moz-animation-name: slidein;
+  animation-duration: 3s;
+  animation-name: slidein;
 }
 
-@-webkit-keyframes slidein {
+@keyframes slidein {
   from {
-    padding-left: 100%;
-    width: 300%;
+    visibility: hidden;
   }
 
   to {
-    padding-left: 0%;
-    width: 100%;
+    visibility: visible;
   }
-}
-
-@-moz-keyframes slidein {
-  from {
-    padding-left: 100%;
-    width: 300%;
-  }
-
-  to {
-    padding-left: 0%;
-    width: 100%;
-  }
+  float: left;
 }
