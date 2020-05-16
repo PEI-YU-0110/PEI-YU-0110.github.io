@@ -65,6 +65,9 @@ a {
 a:hover, a:focus, a:active {
   color: #614B66;
 }
+.normal-icon{
+	width: 1.rem;
+}
 .list-title {
 	color: #FFFFFF;
 	background-color: #7281AC;
