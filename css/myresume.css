@@ -65,26 +65,9 @@ a {
 a:hover, a:focus, a:active {
   color: #614B66;
 }
-
-.col-md-6 wow fadeInRight animated {
-	visibility: visible;
-    animation-duration: 1.5s;
-    animation-name: fadeInRight;
-	animation-fill-mode: both;
-	float: right;
+.list-title {
+	background-color: #614B66;
 }
-h6 {
-  animation-duration: 3s;
-  animation-name: slidein;
-}
-
-@keyframes slidein {
-  from {
-    visibility: hidden;
-  }
-
-  to {
-    visibility: visible;
-  }
-  float: left;
+tbody {
+	background-color: #FFFFFF;
 }
