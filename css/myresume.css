@@ -65,6 +65,12 @@ a {
 a:hover, a:focus, a:active {
   color: #614B66;
 }
+i.twicon-taiwanese-bag {
+    font-size: 2rem;
+}
+i.twicon-sky-lantern {
+    font-size: 1.7rem;
+}
 .list-title {
 	color: #FFFFFF;
 	background-color: #7281AC;
