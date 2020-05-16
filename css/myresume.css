@@ -68,6 +68,7 @@ a:hover, a:focus, a:active {
 .list-title {
 	color: #FFFFFF;
 	background-color: #7281AC;
+	background-image: url("https://www.transparenttextures.com/patterns/crossword.png");
 }
 tbody {
 	background-color: #FFFFFF;
