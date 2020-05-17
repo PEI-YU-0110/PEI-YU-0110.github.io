@@ -82,11 +82,9 @@ i.twicon-sky-lantern {
 tbody {
 	background-color: #FFFFFF;
 }
-.w-200:hover {
-  .event-picture {
+.w-200 .event-picture :hover {
   animation-duration: 3s;
   animation-name: slidein;
-}
 }
 
 @keyframes slidein {
