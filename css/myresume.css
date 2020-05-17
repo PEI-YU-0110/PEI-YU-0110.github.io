@@ -82,15 +82,3 @@ i.twicon-sky-lantern {
 tbody {
 	background-color: #FFFFFF;
 }
-
-.fadeInLeft {
-    visibility: visible;
-    animation-duration: 3s;
-	overflow: hidden;
-    position: relative;
-    animation-name: fadeInLeft;
-}
-
-@keyframes fadeInLeft {
-    float: left;
-}
