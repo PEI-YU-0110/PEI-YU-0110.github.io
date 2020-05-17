@@ -90,9 +90,6 @@ tbody {
     position: relative;
     animation-name: fadeInLeft;
 }
-.feature-content {
-	position: absolute;
-}
 
 @keyframes fadeInLeft {
     float: left;
